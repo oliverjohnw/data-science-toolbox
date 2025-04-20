@@ -14,19 +14,19 @@ Welcome to my **Data Science Toolbox** repository! This repository is a personal
 
 - `docs/`: Additional documentation.
   - `Machine Learning Checklist.docx`: Checklist for new ML projects.
-  - `Performance Metrics.docx`: Performance metrics for ML models.
 - `notebooks/`: Jupyter notebooks.
-  - `Hands-On Machine Learning with Scikit, Keras, Tensorflow`: Notes for Hands-ON ML book by Aurelien Geron.
+  - `books/`: Book notes.
+    - `Ace the Data Science Interview`
 - `.gitignore`: Gitignore file.
 - `README.md`: This file.
 - `requirements.txt`: Package dependencies.
 
 ## Book Notes
 
-Each book that I read will receive its own folder in the `notebooks/` folder. My goal is to provide a unique notebook for each chapter in the book. In addition to the notebooks created, there may also be documentation (which is stored in the `docs/` folder), data (which is stored in the `data/` folder), and source code (which is stored in the `src`) folder.
+Each book that I read will receive its own folder in the `notebooks/books/` subfolder. My goal is to provide a unique notebook for each chapter in the book. In addition to the notebooks created, there may also be documentation (which is stored in the `docs/` folder), data (which is stored in the `data/` folder), and source code (which is stored in the `src`) folder.
 
 This repository contains notes for the following books:
-* Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow - Aurelien Geron (2023)
+* Ace The Data Science Interview
 
 ## Documentation
 
@@ -34,4 +34,3 @@ As mentioned in the section above, any additional documentation that I've gather
 
 This repository contains the following documentation:
 * **Machine Learning Checklist**: A checklist that can be used at the start of a new ML project.
-* **Performance Metrics**: Definition and examples of performance metrics that are used to quantify goodness-of-fit in ML models.
